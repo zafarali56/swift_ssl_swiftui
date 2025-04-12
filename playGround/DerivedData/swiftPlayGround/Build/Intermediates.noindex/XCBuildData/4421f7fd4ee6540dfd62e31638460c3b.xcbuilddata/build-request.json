@@ -1,0 +1,167 @@
+{
+  "buildCommand" : {
+    "command" : "preview",
+    "style" : "dynamicReplacement"
+  },
+  "configuredTargets" : [
+    {
+      "guid" : "PLAYGROUND-PRODUCT:arrays_PageSources-PLAYGROUND-TARGET:/Users/zafar/Coding/iOS/iOS/playGround/swiftPlayGround.playground/Pages/arrays.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "x86_64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "macosx",
+          "sdk" : "macosx15.2",
+          "sdkVariant" : "macos",
+          "supportedArchitectures" : [
+            "x86_64h",
+            "x86_64"
+          ],
+          "targetArchitecture" : "x86_64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Products",
+          "derivedDataPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "DSTROOT" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex/Playgrounds/swiftPlayGround/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex/Playgrounds/swiftPlayGround/Intermediates.noindex",
+              "SYMROOT" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex/Playgrounds/swiftPlayGround/Products"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:const_var_operators_PageSources-PLAYGROUND-TARGET:/Users/zafar/Coding/iOS/iOS/playGround/swiftPlayGround.playground/Pages/const_var_operators.xcplaygroundpage",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "x86_64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "macosx",
+          "sdk" : "macosx15.2",
+          "sdkVariant" : "macos",
+          "supportedArchitectures" : [
+            "x86_64h",
+            "x86_64"
+          ],
+          "targetArchitecture" : "x86_64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Products",
+          "derivedDataPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "DSTROOT" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex/Playgrounds/swiftPlayGround/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex/Playgrounds/swiftPlayGround/Intermediates.noindex",
+              "SYMROOT" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex/Playgrounds/swiftPlayGround/Products"
+            }
+          }
+        }
+      }
+    },
+    {
+      "guid" : "PLAYGROUND-PRODUCT:swiftPlayGround_Sources-PLAYGROUND-TARGET:/Users/zafar/Coding/iOS/iOS/playGround/swiftPlayGround.playground",
+      "parameters" : {
+        "action" : "build",
+        "activeArchitecture" : "x86_64",
+        "activeRunDestination" : {
+          "disableOnlyActiveArch" : false,
+          "platform" : "macosx",
+          "sdk" : "macosx15.2",
+          "sdkVariant" : "macos",
+          "supportedArchitectures" : [
+            "x86_64h",
+            "x86_64"
+          ],
+          "targetArchitecture" : "x86_64"
+        },
+        "arenaInfo" : {
+          "buildIntermediatesPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex",
+          "buildProductsPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Products",
+          "derivedDataPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData",
+          "indexDataStoreFolderPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Index.noindex/DataStore",
+          "indexEnableDataStore" : true,
+          "indexPCHPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Index.noindex/PrecompiledHeaders",
+          "pchPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex/PrecompiledHeaders"
+        },
+        "configurationName" : "Debug",
+        "overrides" : {
+          "synthesized" : {
+            "table" : {
+              "DSTROOT" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex/Playgrounds/swiftPlayGround/ReleaseProducts",
+              "ENABLE_PREVIEWS" : "YES",
+              "OBJROOT" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex/Playgrounds/swiftPlayGround/Intermediates.noindex",
+              "SYMROOT" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex/Playgrounds/swiftPlayGround/Products"
+            }
+          }
+        }
+      }
+    }
+  ],
+  "containerPath" : "/Users/zafar/Coding/iOS/iOS/playGround/swiftPlayGround.playground",
+  "continueBuildingAfterErrors" : true,
+  "dependencyScope" : "workspace",
+  "enableIndexBuildArena" : false,
+  "hideShellScriptEnvironment" : false,
+  "parameters" : {
+    "action" : "build",
+    "activeArchitecture" : "x86_64",
+    "activeRunDestination" : {
+      "disableOnlyActiveArch" : false,
+      "platform" : "macosx",
+      "sdk" : "macosx15.2",
+      "sdkVariant" : "macos",
+      "supportedArchitectures" : [
+        "x86_64h",
+        "x86_64"
+      ],
+      "targetArchitecture" : "x86_64"
+    },
+    "arenaInfo" : {
+      "buildIntermediatesPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex",
+      "buildProductsPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Products",
+      "derivedDataPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData",
+      "indexDataStoreFolderPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Index.noindex/DataStore",
+      "indexEnableDataStore" : true,
+      "indexPCHPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Index.noindex/PrecompiledHeaders",
+      "pchPath" : "/Users/zafar/Coding/iOS/iOS/playGround/DerivedData/swiftPlayGround/Build/Intermediates.noindex/PrecompiledHeaders"
+    },
+    "configurationName" : "Debug",
+    "overrides" : {
+      "synthesized" : {
+        "table" : {
+          "ENABLE_PREVIEWS" : "NO",
+          "ENABLE_XOJIT_PREVIEWS" : "YES",
+          "ONLY_ACTIVE_ARCH" : "YES"
+        }
+      }
+    }
+  },
+  "schemeCommand" : "launch",
+  "showNonLoggedProgress" : true,
+  "useDryRun" : false,
+  "useImplicitDependencies" : true,
+  "useLegacyBuildLocations" : false,
+  "useParallelTargets" : true
+}

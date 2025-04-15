@@ -7,12 +7,20 @@ var greeting = "Hello, playground"
 //: [Next](@next)
 
 struct Student{
-    let id : Int
+    var id : Int{
+        willSet{
+            print("will be set")
+        }
+        didSet{
+            print("was modified")
+        }
+    }
     var name : String
     var adress : String
     func update(){
         
     }
+    
 }
 
 
@@ -39,7 +47,7 @@ print("University", universityA.name)
 
 studeA.update()
 
-
+studeA.id = 4
 studeA.name = "Bob"
 
 print("Student A name is:", studeA.name)
@@ -69,3 +77,41 @@ if universityA !== universityRef{
 
 
 //Strcuts are pass by value classes are pass by refrence
+
+
+
+class Person{
+    var name : String
+    var description: String{
+        return "\the person is \(name)"
+    }
+    
+    init(name: String) {
+        self.name = name
+    }
+}
+
+
+
+class programmer: Person{
+    var lang: String
+    override var description: String{
+        return "the programming lanug we use is \(lang)"
+    }
+    init(lang: String, name: String) {
+
+        self.lang = lang
+        super.init(name: name)
+    }
+    
+
+}
+
+
+
+let person1 = Person(name: "Zafar")
+let programer = programmer(lang: "Swift", name: "Jv")
+
+
+print(person1.name)
+print(programer.name)

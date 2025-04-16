@@ -1,4 +1,4 @@
-import SwiftUI
+import UIKit
 
   //---------------------//
  //      Protocols      //
@@ -194,12 +194,12 @@ extension MilitaryPlane: Flyable { }
 // properties conforming to Equatable
 struct Ball: Equatable, Hashable {
     var radius: Int
-    var color: Color
+    var color: UIColor
 }
 
-let bigGreenBall = Ball(radius: 10, color: .green)
-let smallRedBall = Ball(radius: 11, color: .red)
-let anotherBigGreenBall = Ball(radius: 10, color: .green)
+let bigGreenBall = Ball(radius: 10, color: UIColor.green)
+let smallRedBall = Ball(radius: 11, color: UIColor.red)
+let anotherBigGreenBall = Ball(radius: 10, color: UIColor.green)
 
 if bigGreenBall == smallRedBall {
     print("big green and small red balls are the same")
